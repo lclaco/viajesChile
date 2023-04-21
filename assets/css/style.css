@@ -27,11 +27,7 @@ header {
     height: auto;
 }
 
-.img-responsive {
-    display: block;
-    max-width: 100%;
-    height: 50%;
-}
+
 
 .svg {
     width: 30px;
@@ -145,13 +141,6 @@ div div div ul li {
     margin-left: auto;
     margin-right: auto;
     list-style: none;
-}
-
-
-/* Atributos del carrusel de imágenes */
-#blogCarousel {
-    column-gap: 10px;
-    margin-bottom: 60px;
 }
 
 #contacto {
