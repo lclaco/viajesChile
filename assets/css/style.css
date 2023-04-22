@@ -27,6 +27,9 @@ header {
     height: auto;
 }
 
+nav{
+    overflow: hidden;
+}
 
 
 .svg {
@@ -48,19 +51,6 @@ li {
 .nav-link {
     color: white;
 }
-
-.linea {
-    display: block;
-    width: 100%;
-    margin-bottom: 1em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-    color: #328998;
-    background: #328998;
-}
-
 
 h4 {
     display: block;
@@ -126,7 +116,7 @@ h4 {
 }
 
 .card:hover {
-    background-color: yellow;
+    background-color: grey;
     color: black;
 }
 
