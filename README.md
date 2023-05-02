@@ -18,8 +18,8 @@ unidades.
 
 ## Requerimientos
 1. Construir la estructura de la página usando HTML.(2 Puntos)
-● Construir la estructura de un archivo HTML, utilizando correctamente las etiquetas semánticas para definir las distintas secciones de la página.
-● Realizar correctamente la carga de archivos y organización del directorio.
+* Construir la estructura de un archivo HTML, utilizando correctamente las etiquetas semánticas para definir las distintas secciones de la página.
+* Realizar correctamente la carga de archivos y organización del directorio.
 
 2. Componer visualmente el documento HTML con propiedades CSS.(2 Puntos)
 * Aplicar la sintaxis de CSS utilizando selectores y clases de manera correcta, definiendo notoriamente el aspecto visual del documento.
